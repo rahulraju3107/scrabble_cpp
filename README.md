@@ -1,2 +1,3 @@
 # scrabble_cpp
-This is the Scrabble program from problem set 2 in cs50x. It's written in C++ for practice.
+C program that compares the Scrabble scores of two players' words and announces the winner or a tie.
+CS50x, Problem Set 2
